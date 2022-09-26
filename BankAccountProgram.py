@@ -1,6 +1,6 @@
 #This program demonstrates the BankAccount class.
 
-import BankAccountClass as bc
+import BankAccountClass as bc  
 
 def main():
     
@@ -29,7 +29,7 @@ def main():
         format(savings.get_balance(), ',.2f'),
         sep='')
 
-   print(savings)
+   print(savings) #prints from "__str__(self)"
 
 # Call the main function.
 main()

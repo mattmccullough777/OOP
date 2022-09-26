@@ -1,1 +1,10 @@
-.venv/
+.myvenv/
+BankAccountClass.py
+BankAccountProgram.py
+Cellphone_test.py
+cellphone.py
+Coin Toss.py
+CoinClass.py
+CWPassingObjasArg.py
+InsectClass.py
+InsectProgram.py
