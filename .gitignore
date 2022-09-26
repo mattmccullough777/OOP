@@ -1,4 +1,5 @@
 .myvenv/
+__pycache__/
 BankAccountClass.py
 BankAccountProgram.py
 Cellphone_test.py
