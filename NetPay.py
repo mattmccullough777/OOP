@@ -39,3 +39,4 @@ print("Gross Pay: ",employee.get_salary())
 salary = (employee.get_salary().replace("$","").replace(",",""))
 salary = float(salary)
 print("Net Pay: $", "{:,}".format(salary - Total))
+ 
